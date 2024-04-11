@@ -2,9 +2,13 @@
 
 InkAssist is an innovative chatbot concept developed for tattoo artists, specifically customized to streamline the operational workflow of tattoo artist Lorena. Leveraging cutting-edge language model technology, specifically Large Language Models (LLMs) from OpenAI, InkAssist aims to revolutionize the administrative processes inherent in tattooing.
 
+
+## App Running:
+
 The app was done on Streamlit and you can access and interact with it following the link here:
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inkassist.streamlit.app)
+
 
 ## :dart: Purpose 
 The primary objective of InkAssist is to optimize the efficiency of tattoo artists by automating various administrative tasks, including appointment scheduling, client communication, and tattoo design organization. By harnessing the power of LLMs and tailored prompts, InkAssist enhances the overall productivity and workflow management capabilities of tattoo artists.
