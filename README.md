@@ -41,4 +41,3 @@ Interact with the chatbot through the InkAssist section, to analyze how the chat
 ## Conclusion
 InkAssist represents a pioneering approach towards enhancing the operational efficiency and customer experience in the tattoo industry. By combining state-of-the-art technology with intuitive design, InkAssist empowers tattoo artists like Lorena to focus more on their craft while streamlining administrative tasks effectively.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inkassist.streamlit.app)
